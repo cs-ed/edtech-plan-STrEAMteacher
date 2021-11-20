@@ -1,7 +1,7 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=6403484&assignment_repo_type=AssignmentRepo)
 # Educational Technology Plan
 
-The purpose of this Educational Technology Plan is to introduce and guide the implementation of the AP Computer Science Principles course, a new computer science class at the Academy of Careers and Exploration high school. 
+The purpose of this Educational Technology Plan is to introduce and guide the implementation of the AP Computer Science Principles course, a new computer science class at the Academy of Careers and Exploration High School. 
 
 ## Context
 
